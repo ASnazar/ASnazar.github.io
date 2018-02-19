@@ -1,0 +1,86 @@
+@media screen and (max-width: 800px) {
+
+
+    .div1
+    {
+        background-image: url("ROWER1.png     ") ; 
+        background-size:contain ;
+        width: 100%;
+        height:auto;
+         ;
+         }
+         .div11
+         {
+             display: flex;
+             flex-direction: column;
+             align-items: center;
+             justify-content: center;
+            
+         }
+         .div11 a 
+         {
+             color: #051fab;
+         }
+
+         .conteiner1
+         {
+             display: flex;
+             flex-direction: column;
+         }
+
+
+.div2 
+{
+    width: 100%;
+    height: auto;
+}
+.conteiner11
+{
+    width: 100%;
+    height: 50%;
+}
+.conteiner11 img
+{
+    width: 20%;
+    height:20%;
+}
+.conteiner12
+{
+    height: auto;
+    width: 100%;
+
+}
+.conteiner21
+{
+    width: 100%;
+    height: 50%;
+}
+.conteiner21 img
+{ 
+    height:20% ;
+    width: 20%;
+}
+.conteiner3
+{
+    display: flex;
+    flex-direction:column;
+}
+.conteiner31
+{
+    height: 50%;
+    width: 100%;
+
+}
+.div4
+{
+    display: flex;
+    flex-direction: column;
+    
+}
+#bic4 img {
+    width: 100%;
+    height: 400px !important;
+}
+
+}
+
